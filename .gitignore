@@ -1,0 +1,63 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+ 
+# User-specific files
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.user
+
+# Visual Studio specific
+.vscode/
+.vs/
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.tmp
+
+# Rider specific
+.idea/
+*.sln.iml
+*.sln.dotSettings
+
+# Cache files
+*.apk
+*.aab
+*.pdb
+*.mdb
+
+# Asset files
+*.asset
+*.meta
+*.unity
+
+# Ignore specific Unity packages
+Packages/com.unity.ide.vscode/
+Packages/com.unity.ide.rider/
+Packages/com.unity.addressables/
+Packages/com.unity.textmeshpro/
+
+# Build directories
+[Bb]uild/
+[Oo]ut/
+ 
+# Ignore the generated files from the source generator
+#Assets/Generators/Core.Singleton.Generators/bin/
+Assets/Generators/Core.Singleton.Generators/obj/
+
+# Ignore user-specific settings
+*.csproj.user
+*.sln.dotSettings
+
+# Ignore backups and other files
+*.bak
+*.tmp
+*.swp
+*.swo

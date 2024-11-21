@@ -1,0 +1,17 @@
+{
+    "name": "Core",
+    "rootNamespace": "Core.Singleton.Generator.Core",
+    "references": [
+        "GUID:1672d4fe60ceb0e40aca1544f897c9cd",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

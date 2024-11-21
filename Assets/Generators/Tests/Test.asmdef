@@ -1,0 +1,18 @@
+{
+    "name": "Test",
+    "rootNamespace": "Core.Singleton.Generator.Test",
+    "references": [
+        "GUID:1672d4fe60ceb0e40aca1544f897c9cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Generators.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
